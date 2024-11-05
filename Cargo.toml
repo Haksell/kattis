@@ -10,9 +10,21 @@ name = "hello"
 path = "src/hello.rs"
 
 [[bin]]
+name = "quadrant"
+path = "src/quadrant.rs"
+
+[[bin]]
+name = "r2"
+path = "src/r2.rs"
+
+[[bin]]
 name = "timeloop"
 path = "src/timeloop.rs"
 
 [[bin]]
 name = "tsp"
 path = "src/tsp.rs"
+
+[[bin]]
+name = "twostones"
+path = "src/twostones.rs"
