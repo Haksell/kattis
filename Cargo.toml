@@ -10,5 +10,9 @@ name = "hello"
 path = "src/hello.rs"
 
 [[bin]]
+name = "timeloop"
+path = "src/timeloop.rs"
+
+[[bin]]
 name = "tsp"
 path = "src/tsp.rs"
